@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Services
+- Custom Software Development  
+- Build Versus Buy Analysis  
+- Business Process and Data Use Analysis  
 
-You can use the [editor on GitHub](https://github.com/WooferM/townrow/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Skills
+- Complete Project Lifecycle Service - Problem Analysis, Design, Implementation, Training, and Ongoing Support  
+- Full-Stack Application Development - User Interface, Application Logic, and Database Design  
+- Proficient in both Microsoft .NET and JavaEE Platforms  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience
+- Over 10 Years Experience
+- Experience in Higher Education, Government, Healthcare, and Private Sector
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WooferM/townrow/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+Please Contact me by Email  
+<a href="http://www.google.com/recaptcha/mailhide/d?k=01lbSI8sR8ZZymRnBr5lTP-g==&amp;c=kbY1kpKP0GCt1hhpGbT1_ExnC_is5H1it4CAezkd9a4=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\x3d01lbSI8sR8ZZymRnBr5lTP-g\x3d\x3d\x26c\x3dkbY1kpKP0GCt1hhpGbT1_ExnC_is5H1it4CAezkd9a4\x3d', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">Access My Email Address</a>
