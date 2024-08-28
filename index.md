@@ -1,9 +1,11 @@
 ## Services
+- Premium Tech Support
 - Custom Software Development  
 - Build Versus Buy Analysis  
 - Business Process and Data Use Analysis  
 
 ## Skills
+- Explanation and Training for People of All Ages, Including those Without Computer Knowledge
 - Complete Project Lifecycle Service - Problem Analysis, Design, Implementation, Training, and Ongoing Support  
 - Full-Stack Application Development - User Interface, Application Logic, and Database Design  
 - Proficient in both Microsoft .NET and JavaEE Platforms  
