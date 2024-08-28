@@ -13,5 +13,5 @@
 - Experience in Higher Education, Government, Healthcare, and Private Sector
 
 ## Contact
-To get in touch with me, please fill out 
-<a href="https://forms.gle/eu9D3Wx3dSXuHmHY9" title="Google Forms Link">this Google Form</a>
+To get in touch with me, please contact me via email
+<!--To get in touch with me, please fill out <a href="https://forms.gle/eu9D3Wx3dSXuHmHY9" title="Google Forms Link">this Google Form</a>-->
